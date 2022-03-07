@@ -1,0 +1,103 @@
+--------------------------------------------------------------------------------
+
+https://www.ustream.to/index.html
+https://www.ustream.to/cnn-v2-live
+
+--------------------------------------------------------------------------------
+
+view-source:https://www.ustream.to/cnn-v2-live
+  <iframe id="iframe_streaming_418137" src="/stream?id=cnn-v2" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
+
+--------------------------------------------------------------------------------
+
+view-source:https://www.ustream.to/stream?id=cnn-v2
+  <script>
+    eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('a l="8://c.7.6/5.4?3=2-1&9=0=";d.e(\'b\').g="8://h.7.6/i/j-5.4?3=2-1&9=0=";a f="8://k.7.6/5.4?3=2-1&9=0=";',22,22,'aHR0cHMlM0ElMkYlMkZ3d3cudXN0cmVhbS50byUyRnN0cmVhbV9vcmlnaW5hbC5waHAlM0Z0b2tlbiUzRDNjNTVmMGQ2MzhlZjljYTMxMGU1M2M0YjliMjE5MTdmJTI2aWQlM0Rjbm4tdjIlMjY|v2|cnn|id|html|page|com|blogspot|https|url|var|iframe_asdaf_605257|blog4360|document|getElementById|blog9463|src|dotmeraz|p|blog|blog6010|blog1094'.split('|'),0,{}))
+  </script>
+
+----------------------------------------
+
+test:
+  console.log(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('a l="8://c.7.6/5.4?3=2-1&9=0=";d.e(\'b\').g="8://h.7.6/i/j-5.4?3=2-1&9=0=";a f="8://k.7.6/5.4?3=2-1&9=0=";',22,22,'aHR0cHMlM0ElMkYlMkZ3d3cudXN0cmVhbS50byUyRnN0cmVhbV9vcmlnaW5hbC5waHAlM0Z0b2tlbiUzRDNjNTVmMGQ2MzhlZjljYTMxMGU1M2M0YjliMjE5MTdmJTI2aWQlM0Rjbm4tdjIlMjY|v2|cnn|id|html|page|com|blogspot|https|url|var|iframe_asdaf_605257|blog4360|document|getElementById|blog9463|src|dotmeraz|p|blog|blog6010|blog1094'.split('|'),0,{}))
+
+output:
+  var blog1094="https://blog4360.blogspot.com/page.html?id=cnn-v2&url=aHR0cHMlM0ElMkYlMkZ3d3cudXN0cmVhbS50byUyRnN0cmVhbV9vcmlnaW5hbC5waHAlM0Z0b2tlbiUzRDNjNTVmMGQ2MzhlZjljYTMxMGU1M2M0YjliMjE5MTdmJTI2aWQlM0Rjbm4tdjIlMjY=";
+  document.getElementById('iframe_asdaf_605257').src="https://dotmeraz.blogspot.com/p/blog-page.html?id=cnn-v2&url=aHR0cHMlM0ElMkYlMkZ3d3cudXN0cmVhbS50byUyRnN0cmVhbV9vcmlnaW5hbC5waHAlM0Z0b2tlbiUzRDNjNTVmMGQ2MzhlZjljYTMxMGU1M2M0YjliMjE5MTdmJTI2aWQlM0Rjbm4tdjIlMjY=";
+  var blog9463="https://blog6010.blogspot.com/page.html?id=cnn-v2&url=aHR0cHMlM0ElMkYlMkZ3d3cudXN0cmVhbS50byUyRnN0cmVhbV9vcmlnaW5hbC5waHAlM0Z0b2tlbiUzRDNjNTVmMGQ2MzhlZjljYTMxMGU1M2M0YjliMjE5MTdmJTI2aWQlM0Rjbm4tdjIlMjY=";
+
+----------------------------------------
+
+note:
+  "url" querystring parameter is the same in all 3x URLs
+
+test:
+  console.log(
+    decodeURIComponent(
+      atob('aHR0cHMlM0ElMkYlMkZ3d3cudXN0cmVhbS50byUyRnN0cmVhbV9vcmlnaW5hbC5waHAlM0Z0b2tlbiUzRDNjNTVmMGQ2MzhlZjljYTMxMGU1M2M0YjliMjE5MTdmJTI2aWQlM0Rjbm4tdjIlMjY=')
+    )
+  )
+
+output:
+  https://www.ustream.to/stream_original.php?token=3c55f0d638ef9ca310e53c4b9b21917f&id=cnn-v2&
+
+--------------------------------------------------------------------------------
+
+view-source:https://www.ustream.to/stream_original.php?token=3c55f0d638ef9ca310e53c4b9b21917f&id=cnn-v2&
+  <script>
+    eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('1 3="t-u";1 v="w";1 x="2";1 y="2.z";1 A="";1 B="";1 s="C-E-F-G-H-I-J-K-L-M-N-q-r-g-p-5-6-7-8-9-a-0";1 b="c-d-4-f-e-h-i-j-k-l-m";1 n="o-O-D-P-1f-1h-1i-1j-1k-1l-1m";1 1n="1o-1p-1g-1q-1s-1t-1u-1v-1w-1x-1y";1 1z="1A-1B-1r-1e-12-1d-S-T-U-V-W";1 X="Y-Z-10-R-11-13-14-15-16-17-18";1 19="1a.1b.1c";1 Q=0;',62,100,'|var|CNN|adresa|934|d0c|cf8|29f|1d6|04e|2bc|jdtk1|4d6|30f|7b1|717|3fd|7ec|7a3|62f|194|892|39|jdtk2|78e|484|39c|bd9|jdtk|cnn|v2|ex|2400|jdl|file_name|m3u8|fldww|jml_token|f46|208|e10|355|ab6|964|b84|8bb|81d|786|372|2b4|fce|a52|ustreamix_app|183|bef|d56|bb5|281|a5|jdtk_oplas|c98|92a|989|de3|e17|2e9|76c|6f0|4e7|002|01|host_tmg|hls|ustream|to|589|1ed|427|6d9|29d|222|e7e|6e3|e56|5e|jdtk3|407|901|402|dcf|10b|4ae|9ae|7d4|1c4|a20|65|jdtk4|63c|e12'.split('|'),0,{}))
+  </script>
+  <script type="text/javascript">
+    eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('4.7=[];4.b=9 b(d){4.7.15(d);8()};4.8=9 8(){5([\'G\',\'F\'].E(e.D)>-1){C(4.7.B>0){(4.7.A())()}}};e.y=4.8;5(v==0){}b(9(){});a.c(\'3: \'+3);5(u==1){t=1}2 s=\'<g><f>r q H, z J / I 14? ==> 13 12 <h> 11 10 Z Y </h> 5 X W U K.</f></g>\';5(p(6)==\'m\'||6==k){2 6=\'\';S(9(){a.c(\'R 0\');Q.P()},O)}2 n=6;2 M="0";2 L="";2 V="w";N=\'i://\'+o+\'/\'+l+\'?j=\'+n;2 T=\'i://\'+o+\'/\'+l+\'?j=x\';5(p(3)==\'m\'||3==k){2 3=\'\'}a.c(\'3: \'+3);',62,68,'||var|country|window|if|jdtk|readyHandlers|handleState|function|console|ready|log|handler|document|h3|center|strong|https|token|null|file_name|undefined|tsn|host_tmg|typeof|see|Cannot|mesaje|adblock_user|he_is_bot|cdn_loaded|cnn|adblocker|onreadystatechange|only|shift|length|while|readyState|indexOf|complete|interactive|Streams|white|blank|it|cached|hidden|stream|30000|reload|location|Token|setInterval|stream_adblock|using|nume|re|you|VPN|or|Proxy|Disable|try|please|page|push'.split('|'),0,{}))
+  </script>
+
+----------------------------------------
+
+test:
+  console.log(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('1 3="t-u";1 v="w";1 x="2";1 y="2.z";1 A="";1 B="";1 s="C-E-F-G-H-I-J-K-L-M-N-q-r-g-p-5-6-7-8-9-a-0";1 b="c-d-4-f-e-h-i-j-k-l-m";1 n="o-O-D-P-1f-1h-1i-1j-1k-1l-1m";1 1n="1o-1p-1g-1q-1s-1t-1u-1v-1w-1x-1y";1 1z="1A-1B-1r-1e-12-1d-S-T-U-V-W";1 X="Y-Z-10-R-11-13-14-15-16-17-18";1 19="1a.1b.1c";1 Q=0;',62,100,'|var|CNN|adresa|934|d0c|cf8|29f|1d6|04e|2bc|jdtk1|4d6|30f|7b1|717|3fd|7ec|7a3|62f|194|892|39|jdtk2|78e|484|39c|bd9|jdtk|cnn|v2|ex|2400|jdl|file_name|m3u8|fldww|jml_token|f46|208|e10|355|ab6|964|b84|8bb|81d|786|372|2b4|fce|a52|ustreamix_app|183|bef|d56|bb5|281|a5|jdtk_oplas|c98|92a|989|de3|e17|2e9|76c|6f0|4e7|002|01|host_tmg|hls|ustream|to|589|1ed|427|6d9|29d|222|e7e|6e3|e56|5e|jdtk3|407|901|402|dcf|10b|4ae|9ae|7d4|1c4|a20|65|jdtk4|63c|e12'.split('|'),0,{}))
+  console.log(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('4.7=[];4.b=9 b(d){4.7.15(d);8()};4.8=9 8(){5([\'G\',\'F\'].E(e.D)>-1){C(4.7.B>0){(4.7.A())()}}};e.y=4.8;5(v==0){}b(9(){});a.c(\'3: \'+3);5(u==1){t=1}2 s=\'<g><f>r q H, z J / I 14? ==> 13 12 <h> 11 10 Z Y </h> 5 X W U K.</f></g>\';5(p(6)==\'m\'||6==k){2 6=\'\';S(9(){a.c(\'R 0\');Q.P()},O)}2 n=6;2 M="0";2 L="";2 V="w";N=\'i://\'+o+\'/\'+l+\'?j=\'+n;2 T=\'i://\'+o+\'/\'+l+\'?j=x\';5(p(3)==\'m\'||3==k){2 3=\'\'}a.c(\'3: \'+3);',62,68,'||var|country|window|if|jdtk|readyHandlers|handleState|function|console|ready|log|handler|document|h3|center|strong|https|token|null|file_name|undefined|tsn|host_tmg|typeof|see|Cannot|mesaje|adblock_user|he_is_bot|cdn_loaded|cnn|adblocker|onreadystatechange|only|shift|length|while|readyState|indexOf|complete|interactive|Streams|white|blank|it|cached|hidden|stream|30000|reload|location|Token|setInterval|stream_adblock|using|nume|re|you|VPN|or|Proxy|Disable|try|please|page|push'.split('|'),0,{}))
+
+output 1:
+  var adresa="cnn-v2";
+  var ex="2400";
+  var jdl="CNN";
+//>>>:
+  var file_name="CNN.m3u8";
+  var fldww="";
+  var jml_token="";
+//>>>:
+  var jdtk="f46-e10-355-ab6-964-b84-8bb-81d-786-372-2b4-39c-bd9-3fd-484-d0c-cf8-29f-1d6-04e-2bc-0";
+  var jdtk1="4d6-30f-934-717-7b1-7ec-7a3-62f-194-892-39";
+  var jdtk2="78e-fce-208-a52-427-29d-222-e7e-6e3-e56-5e";
+  var jdtk3="407-901-6d9-402-10b-4ae-9ae-7d4-1c4-a20-65";
+  var jdtk4="63c-e12-dcf-1ed-e17-589-bef-d56-bb5-281-a5";
+  var jdtk_oplas="c98-92a-989-183-de3-2e9-76c-6f0-4e7-002-01";
+//>>>:
+  var host_tmg="hls.ustream.to";
+  var ustreamix_app=0;
+
+output 2:
+  window.readyHandlers=[];
+  window.ready=function ready(handler){window.readyHandlers.push(handler);handleState()};
+  window.handleState=function handleState(){if(['interactive','complete'].indexOf(document.readyState)>-1){while(window.readyHandlers.length>0){(window.readyHandlers.shift())()}}};
+  document.onreadystatechange=window.handleState;
+  if(cdn_loaded==0){}
+  ready(function(){});
+  console.log('country: '+country);
+  if(he_is_bot==1){adblock_user=1}
+  var mesaje='<center><h3>Cannot see Streams, only blank / white page? ==> please try <strong> Disable Proxy or VPN </strong> if you re using it.</h3></center>';
+  if(typeof(jdtk)=='undefined'||jdtk==null){var jdtk='';setInterval(function(){console.log('Token 0');location.reload()},30000)}
+//>>>:
+  var tsn=jdtk;
+  var hidden="0";
+  var cached="";
+  var nume="cnn";
+//>>>:
+  stream='https://'+host_tmg+'/'+file_name+'?token='+tsn;
+  var stream_adblock='https://'+host_tmg+'/'+file_name+'?token=adblocker';
+  if(typeof(country)=='undefined'||country==null){var country=''}
+  console.log('country: '+country);
+
+summary:
+  stream = 'https://hls.ustream.to/CNN.m3u8?token=f46-e10-355-ab6-964-b84-8bb-81d-786-372-2b4-39c-bd9-3fd-484-d0c-cf8-29f-1d6-04e-2bc-0'
+
+--------------------------------------------------------------------------------
